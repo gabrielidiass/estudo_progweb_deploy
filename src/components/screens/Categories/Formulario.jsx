@@ -15,8 +15,6 @@ function Formulario() {
     setExibirForm,
   } = useContext(CategoriaContext);
 
-  const [validated, setValidated] = useState(false);
-
 
   return (
         <Dialogo id="modalEdicao" titulo="Categoria"
