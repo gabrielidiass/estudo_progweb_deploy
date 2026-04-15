@@ -1,4 +1,4 @@
-import { useContext, useState } from "react";
+import { useContext } from "react";
 import Alerta from "../../useful/Alerta";
 import CategoriaContext from "./CategoriaContext";
 import Col from "react-bootstrap/Col";
